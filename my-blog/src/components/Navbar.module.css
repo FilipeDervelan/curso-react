@@ -20,7 +20,7 @@
 	list-style: none;
 }
 
-.links_list {
+.links_list li {
 	margin-right: 1em;
 }
 
