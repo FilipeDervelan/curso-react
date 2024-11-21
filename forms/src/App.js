@@ -8,7 +8,7 @@ function App() {
       <MyForm user={
         {
           name: "Filipe", 
-          email: "filipeedervelan@gmail.com", 
+          email: "batatinha007@gmail.com", 
           bio: "Programador", 
           role: "User"
         }}
